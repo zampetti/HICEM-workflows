@@ -14,7 +14,13 @@ Tesseract
 ```
 
 ### Installation
-Installation instructions can be found at
+Installation instructions for Anaconda can be found at
 ```
 https://docs.anaconda.com/anaconda/install/windows/
 ```
+Installation for Tesseract on Windows can be found at
+```
+https://github.com/UB-Mannheim/tesseract/wiki
+```
+
+## Running the Programs
