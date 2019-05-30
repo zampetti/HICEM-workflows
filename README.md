@@ -30,6 +30,16 @@ Some of the libraries imported in the code are not packaged with Python out of t
 pip install pytesseract
 ```
 Once your packages are installed you can perform the OCR written in this code under the condition that the path to the collection is in the format DIRECTORY > FOLDER > JPEG
+
+In the command prompt, navigate to the location of the program.
+```
+cd <location of your .py file>
+```
+Then execute the file.
+```
+python3 -c <provide the path to the collection for ocr> <program file name (for example, HICEM_OCR.py)>
+```
+
 Installation of MySQL database is not covered here; if you prefer not to use MySQL you can alter the code to write the results to a CSV file or a Pandas dataframe.
 
 ### Template Matching
