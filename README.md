@@ -40,7 +40,7 @@ Then execute the file.
 python3 -c <provide the path to the collection for ocr> <program file name (for example, HICEM_OCR.py)>
 ```
 In this example, the image on the left is well constructed OCR in the German language, while the image on the right is garbled OCR likely from a handwritten document.
-![](ocr.jpeg)
+![](images/ocr.jpeg)
 
 Installation of MySQL database is not covered here; if you prefer not to use MySQL you can alter the code to write the results to a CSV file or a Pandas dataframe.
 
